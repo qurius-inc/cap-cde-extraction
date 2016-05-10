@@ -72,3 +72,8 @@ python scripts/python/extract_cde_test.py
 ```
 
 and get a load of output.
+
+## PDFMiner
+
+For the moment, I'm using PDFMiner.  It has a [basic API](http://www.unixuser.org/~euske/python/pdfminer/programming.html)
+
