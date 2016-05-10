@@ -77,3 +77,6 @@ and get a load of output.
 
 For the moment, I'm using PDFMiner.  It has a [basic API](http://www.unixuser.org/~euske/python/pdfminer/programming.html)
 
+## FHIR Options
+
+So, the CAP formats are under license by the College of American Pathologists.  This is a pain.  HOWEVER, it turns out that HL7 also maintains the fields we need for the reports, so all we have to do is translate the pathology reports into FHIR messages.  Sounds simple...  [This page](http://hl7.org/fhir/2016May/nehta/nehta-prostate-radical.html) has some details on the prostate pathology.  Yes!
