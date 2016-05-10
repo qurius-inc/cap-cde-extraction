@@ -42,6 +42,10 @@ For instance, the sample form is "PROSTATE GLAND: Radical Prostatectomy".
 
 So ultimately, we'll need to large JSON files, one with the CDEs and one with the report temmplates.
 
+## Reports
+
+I added the report summary XLS file in the data directory, it has all the mandatory headings for the reports.
+
 ## VirtualEnv
 
 If you've never used Virtual Env before, it's not hard.  From the top level dir of the project, do
